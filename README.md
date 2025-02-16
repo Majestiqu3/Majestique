@@ -1,0 +1,2 @@
+# Majestique
+Automatization
